@@ -1,2 +1,2 @@
 # Sample_Code
-Sample bode
+This is sample code
